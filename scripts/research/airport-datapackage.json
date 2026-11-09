@@ -1,0 +1,224 @@
+{
+  "collection": "reference-data",
+  "description": "Airports, heliports and other aviation facilities worldwide, with IATA, ICAO and other codes, type, location and coordinates, from OurAirports. Includes closed facilities.",
+  "has_extended_version": true,
+  "has_solutions": [
+    "global-country-region-reference-data",
+    "logistics",
+    "worldwide-postal-code-database"
+  ],
+  "homepage": "https://ourairports.com/",
+  "licenses": [
+    {
+      "id": "odc-pddl",
+      "name": "ODC-PDDL-1.0",
+      "path": "https://opendatacommons.org/licenses/pddl/1.0/",
+      "title": "Open Data Commons Public Domain Dedication and License v1.0. OurAirports releases its data to the public domain. The reuse terms of OurAirports' own sources and of the IATA and ICAO code lists are unclear (see the README)."
+    }
+  ],
+  "name": "airport-codes",
+  "profile": "data-package",
+  "resources": [
+    {
+      "description": "List of airports and airfields worldwide with their IATA and ICAO codes, location identifiers, facility type, and geographic coordinates. Derived from the OurAirports public domain dataset by merging latitude and longitude into a single coordinates field.",
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "name": "airport-codes",
+      "path": "data/airport-codes.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "description": "OurAirports unique identifier for the airport (e.g. `00A`, `KLAX`, `ZYTX`).",
+            "format": "default",
+            "name": "ident",
+            "type": "string"
+          },
+          {
+            "description": "Facility type. One of: `small_airport`, `medium_airport`, `large_airport`, `heliport`, `seaplane_base`, `balloonport`, `closed`.",
+            "format": "default",
+            "name": "type",
+            "type": "string"
+          },
+          {
+            "description": "Full name of the airport or airfield.",
+            "format": "default",
+            "name": "name",
+            "type": "string"
+          },
+          {
+            "description": "Elevation of the airport above sea level in feet. May be empty when unknown.",
+            "format": "default",
+            "name": "elevation_ft",
+            "type": "integer"
+          },
+          {
+            "description": "Two-letter continent code (e.g. `NA` = North America, `EU` = Europe, `AS` = Asia, `AF` = Africa, `OC` = Oceania, `SA` = South America, `AN` = Antarctica).",
+            "format": "default",
+            "name": "continent",
+            "type": "string"
+          },
+          {
+            "description": "ISO 3166-1 alpha-2 two-letter country code (e.g. `US`, `CN`, `GB`).",
+            "format": "default",
+            "name": "iso_country",
+            "type": "string"
+          },
+          {
+            "description": "ISO 3166-2 region code combining country and subdivision (e.g. `US-CA`, `CN-21`).",
+            "format": "default",
+            "name": "iso_region",
+            "type": "string"
+          },
+          {
+            "description": "Name of the city or municipality where the airport is located. May be empty.",
+            "format": "default",
+            "name": "municipality",
+            "type": "string"
+          },
+          {
+            "description": "ICAO (International Civil Aviation Organization) 4-letter airport code, used by air traffic control. May be empty for facilities without an ICAO designation.",
+            "format": "default",
+            "name": "icao_code",
+            "type": "string"
+          },
+          {
+            "description": "IATA (International Air Transport Association) 3-letter code, used in passenger ticketing and baggage handling. May be empty for facilities without commercial scheduled service.",
+            "format": "default",
+            "name": "iata_code",
+            "type": "string"
+          },
+          {
+            "description": "GPS navigation code for the airport; often the same as the ICAO code. May be empty.",
+            "format": "default",
+            "name": "gps_code",
+            "type": "string"
+          },
+          {
+            "description": "Local country-specific airport code; primarily used for US airports (FAA identifier). May be empty.",
+            "format": "default",
+            "name": "local_code",
+            "type": "string"
+          },
+          {
+            "description": "Geographic coordinates as a `\"latitude, longitude\"` decimal string, derived from the source `latitude_deg` and `longitude_deg` columns.",
+            "format": "default",
+            "name": "coordinates",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "description": "Number of facilities by type, including closed ones, counted from airport-codes.csv each time the data is updated.",
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "name": "type-counts",
+      "path": "data/type-counts.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "description": "Facility type (e.g. `Large Airport`, `Small Airport`, `Heliport`).",
+            "format": "default",
+            "name": "type",
+            "type": "string"
+          },
+          {
+            "description": "Number of facilities of this type in airport-codes.csv.",
+            "format": "default",
+            "name": "count",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "sources": [
+    {
+      "name": "OurAirports",
+      "path": "https://ourairports.com/data/airports.csv",
+      "title": "OurAirports airports.csv"
+    }
+  ],
+  "title": "Airport Codes",
+  "version": "0.2.0",
+  "views": [
+    {
+      "description": "Facilities by type, including closed ones. The bars use the counts in type-counts.csv, which the update script refreshes together with the data.",
+      "name": "airports-by-type",
+      "resources": [
+        "airport-codes"
+      ],
+      "spec": {
+        "height": 340,
+        "marginLeft": 130,
+        "marks": [
+          {
+            "fill": "#3b82f6",
+            "sort": {
+              "y": "-x"
+            },
+            "staticData": [
+              {
+                "count": 42788,
+                "type": "Small Airport"
+              },
+              {
+                "count": 23280,
+                "type": "Heliport"
+              },
+              {
+                "count": 13657,
+                "type": "Closed"
+              },
+              {
+                "count": 4107,
+                "type": "Medium Airport"
+              },
+              {
+                "count": 1274,
+                "type": "Seaplane Base"
+              },
+              {
+                "count": 1175,
+                "type": "Large Airport"
+              },
+              {
+                "count": 62,
+                "type": "Balloonport"
+              }
+            ],
+            "tip": true,
+            "type": "barX",
+            "x": "count",
+            "y": "type"
+          }
+        ],
+        "x": {
+          "grid": true,
+          "label": "Number of Airports"
+        },
+        "y": {
+          "label": null
+        }
+      },
+      "specType": "plot",
+      "title": "World Airports by Type"
+    }
+  ]
+}

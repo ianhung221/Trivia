@@ -1,0 +1,13 @@
+{
+  "id": "./",
+  "name": "途中 TRIVIA",
+  "short_name": "途中",
+  "description": "給好奇旅人的口袋地理知識",
+  "lang": "zh-Hant",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f2e9",
+  "theme_color": "#f5f2e9",
+  "icons": [{ "src": "./assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

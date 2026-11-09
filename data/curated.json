@@ -1,0 +1,2168 @@
+{
+  "sources": [
+    {
+      "id": "cur-src-sheep",
+      "title": "Sheepview360 in the Faroe Islands",
+      "url": "https://www.youtube.com/watch?v=ywdqiyoQNgQ",
+      "publisher": "Visit Faroe Islands",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-diomede",
+      "title": "The Diomede Islands",
+      "url": "https://www.usgs.gov/media/images/diomede-islands",
+      "publisher": "USGS",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-gpsrel",
+      "title": "Putting Einstein to the Test",
+      "url": "https://www.nist.gov/atomic-clocks/a-powerful-tool-for-science/putting-einstein-test",
+      "publisher": "NIST",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-greenwich",
+      "title": "History of Royal Observatory Greenwich",
+      "url": "https://www.rmg.co.uk/stories/space-astronomy/history-royal-observatory",
+      "publisher": "Royal Museums Greenwich",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-shortflight",
+      "title": "Orkney Inter-Isles Flights",
+      "url": "https://www.loganair.co.uk/interisles/",
+      "publisher": "Loganair",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-runway",
+      "title": "Airport Operations: Use of Runways",
+      "url": "https://www.faa.gov/air_traffic/publications/aim_html/chap4_section_3.html",
+      "publisher": "FAA",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-baikal",
+      "title": "Lake Baikal: A Touchstone for Global Change and Rift Studies",
+      "url": "https://pubs.usgs.gov/fs/baikal/index.html",
+      "publisher": "USGS",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-titicaca",
+      "title": "Protecting Underwater Cultural Heritage in Lake Titicaca",
+      "url": "https://www.unesco.org/en/articles/protecting-underwater-cultural-heritage-lake-titicaca",
+      "publisher": "UNESCO",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-struve",
+      "title": "Struve Geodetic Arc",
+      "url": "https://whc.unesco.org/en/list/1187/",
+      "publisher": "UNESCO World Heritage Centre",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-sargasso",
+      "title": "What is the Sargasso Sea?",
+      "url": "https://oceanservice.noaa.gov/facts/sargassosea.html",
+      "publisher": "NOAA",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-mountains",
+      "title": "What is the highest point on Earth as measured from Earth’s center?",
+      "url": "https://oceanservice.noaa.gov/facts/highestpoint.html?ccms_cs=1",
+      "publisher": "NOAA",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-nemo",
+      "title": "Where is Point Nemo?",
+      "url": "https://oceanservice.noaa.gov/facts/nemo.html",
+      "publisher": "NOAA",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-ilulissat",
+      "title": "Ilulissat Icefjord",
+      "url": "https://whc.unesco.org/en/list/1149",
+      "publisher": "UNESCO World Heritage Centre",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-socotra",
+      "title": "Socotra Archipelago",
+      "url": "https://whc.unesco.org/en/list/1263/",
+      "publisher": "UNESCO World Heritage Centre",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-namib",
+      "title": "Namib Sand Sea",
+      "url": "https://whc.unesco.org/en/list/1430/",
+      "publisher": "UNESCO World Heritage Centre",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-surtsey",
+      "title": "Surtsey",
+      "url": "https://world-heritage-datasheets.unep-wcmc.org/datasheet/output/site/surtsey/",
+      "publisher": "UNEP-WCMC",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-channel",
+      "title": "The Channel Tunnel",
+      "url": "https://www.getlinkgroup.com/en/our-group/eurotunnel/channel-tunnel/",
+      "publisher": "Getlink / Eurotunnel",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-channelbuild",
+      "title": "Channel Tunnel",
+      "url": "https://www.bouygues-construction.com/en/sectors/water-management/transfer-storage/channel-tunnel",
+      "publisher": "Bouygues Construction",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-gotthard",
+      "title": "The New Rail Link through the Alps",
+      "url": "https://www.uvek.admin.ch/en/nrla",
+      "publisher": "Swiss Federal Department of the Environment, Transport, Energy and Communications",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-falkirk",
+      "title": "The Falkirk Wheel",
+      "url": "https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel",
+      "publisher": "Scottish Canals",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-london",
+      "title": "When did the first underground railway open?",
+      "url": "https://library.ltmuseum.co.uk/portal/Default/en-GB/RecordView/Index/108",
+      "publisher": "London Transport Museum",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-steam",
+      "title": "Metropolitan Railway 150",
+      "url": "https://www.nationaltransporttrust.org.uk/metropolitan-railway-150",
+      "publisher": "National Transport Trust",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-shinkansen",
+      "title": "Shinkansen: 50 years",
+      "url": "https://www.uk.emb-japan.go.jp/en/webmagazine/2014/11/shinkansen.html",
+      "publisher": "Embassy of Japan in the UK",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-aral",
+      "title": "World of Change: Shrinking Aral Sea",
+      "url": "https://science.nasa.gov/earth/earth-observatory/world-of-change/aral-sea/",
+      "publisher": "NASA",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-hans",
+      "title": "Canada and Denmark reach historic agreement on boundary disputes",
+      "url": "https://www.canada.ca/en/global-affairs/news/2022/06/canada-and-the-kingdom-of-denmark-together-with-greenland-reach-historic-agreement-on-long-standing-boundary-disputes.html",
+      "publisher": "Global Affairs Canada",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-baarle",
+      "title": "Enclave H7 (Belgian)",
+      "url": "https://en.visitbaarle.com/locaties/enclave-h7-5f85a80764f477263a4b19a9",
+      "publisher": "Visit Baarle",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-aland",
+      "title": "About Åland",
+      "url": "https://www.norden.org/en/information/about-aland",
+      "publisher": "Nordic cooperation",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-southafrica",
+      "title": "South Africa’s provinces",
+      "url": "https://www.gov.za/about-sa/south-africas-provinces",
+      "publisher": "South African Government",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-blackbox",
+      "title": "Black box flight recorders",
+      "url": "https://www.atsb.gov.au/publications/educational-fact-sheet/2022/aviation/black-box-flight-recorders",
+      "publisher": "Australian Transport Safety Bureau",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-mile",
+      "title": "National Weather Service Marine Forecasts FAQ",
+      "url": "https://www.weather.gov/marine/faq",
+      "publisher": "NOAA National Weather Service",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-knot",
+      "title": "Tides & Currents glossary",
+      "url": "https://tidesandcurrents.noaa.gov/glossary",
+      "publisher": "NOAA",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-alphabet",
+      "title": "General Control: Radiotelephony",
+      "url": "https://www.faa.gov/air_traffic/publications/atpubs/fs_html/chap2_section_3.html",
+      "publisher": "FAA",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-jet",
+      "title": "What Is the Jet Stream?",
+      "url": "https://www.nesdis.noaa.gov/about/k-12-education/atmosphere/what-the-jet-stream",
+      "publisher": "NOAA NESDIS / NASA Space Place",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-inca",
+      "title": "Qhapaq Ñan, Andean Road System",
+      "url": "https://whc.unesco.org/en/list/1459",
+      "publisher": "UNESCO World Heritage Centre",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-pont",
+      "title": "Pontcysyllte Aqueduct and Canal",
+      "url": "https://whc.unesco.org/en/list/1303/",
+      "publisher": "UNESCO World Heritage Centre",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-semmering",
+      "title": "Semmering Railway",
+      "url": "https://whc.unesco.org/en/list/785",
+      "publisher": "UNESCO World Heritage Centre",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-india",
+      "title": "Mountain Railways of India",
+      "url": "https://whc.unesco.org/en/list/944",
+      "publisher": "UNESCO World Heritage Centre",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-nauru",
+      "title": "Republic of Nauru",
+      "url": "https://www.theprif.org/country-profile/republic-nauru",
+      "publisher": "Pacific Region Infrastructure Facility",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-nepal",
+      "title": "Nepal: Flags of the World",
+      "url": "https://www.crwflags.net/FOTW/flags/np.html",
+      "publisher": "Flags of the World",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-double",
+      "title": "Largest double landlocked country",
+      "url": "https://www.guinnessworldrecords.com/world-records/largest-double-landlocked-country-",
+      "publisher": "Guinness World Records",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-france",
+      "title": "Guyane française / Brésil — La frontière",
+      "url": "https://cnes.fr/geoimage/guyane-francaise-bresil-frontiere-dun-territoire-longtemps-conteste-une-difficile-cooperation",
+      "publisher": "CNES",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-alishan",
+      "title": "鐵道技術",
+      "url": "https://afrch.forest.gov.tw/0000524",
+      "publisher": "農業部林業及自然保育署阿里山林業鐵路及文化資產管理處",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-vatican",
+      "title": "教廷 The Holy See — 教廷大使館",
+      "url": "https://www.mofa.gov.tw/CountryInfo.aspx?CASN=1&n=164&s=188&sms=33&tabs=A37697969F737464",
+      "publisher": "中華民國外交部",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-bridge",
+      "title": "Longest bridge",
+      "url": "https://www.guinnessworldrecords.com/world-records/longest-bridge",
+      "publisher": "Guinness World Records",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-tsunami",
+      "title": "What is a tsunami?",
+      "url": "https://oceanservice.noaa.gov/facts/tsunami.html",
+      "publisher": "NOAA",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-deep",
+      "title": "How deep is the ocean?",
+      "url": "https://oceanservice.noaa.gov/facts/oceandepth.html?platform=hootsuite",
+      "publisher": "NOAA",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-dateline",
+      "title": "The International Date Line",
+      "url": "https://aa.usno.navy.mil/faq/international_date",
+      "publisher": "United States Naval Observatory",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-gps",
+      "title": "The Global Positioning System",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_geodesy/geo09_gps.html",
+      "publisher": "NOAA",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-galileo",
+      "title": "Galileo",
+      "url": "https://www.euspa.europa.eu/eu-space-programme/galileo",
+      "publisher": "EU Agency for the Space Programme",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-orbit",
+      "title": "Catalog of Earth Satellite Orbits",
+      "url": "https://science.nasa.gov/earth/earth-observatory/catalog-of-earth-satellite-orbits/",
+      "publisher": "NASA",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-web",
+      "title": "The birth of the Web",
+      "url": "https://home.cern/science/computing/the-birth-of-the-web",
+      "publisher": "CERN",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-causeway",
+      "title": "Giant’s Causeway and Causeway Coast",
+      "url": "https://whc.unesco.org/en/list/369/",
+      "publisher": "UNESCO World Heritage Centre",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-wadden",
+      "title": "Wadden Sea",
+      "url": "https://whc.unesco.org/en/list/1314",
+      "publisher": "UNESCO World Heritage Centre",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-halong",
+      "title": "Ha Long Bay — Cat Ba Archipelago",
+      "url": "https://whc.unesco.org/en/list/672/",
+      "publisher": "UNESCO World Heritage Centre",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-rhaetian",
+      "title": "Rhaetian Railway in the Albula / Bernina Landscapes",
+      "url": "https://whc.unesco.org/en/list/1276",
+      "publisher": "UNESCO World Heritage Centre",
+      "accessedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-src-runwaychange",
+      "title": "Airport Runway Names Shift with Magnetic Field",
+      "url": "https://www.ncei.noaa.gov/news/airport-runway-names-shift-magnetic-field",
+      "publisher": "NOAA NCEI",
+      "accessedAt": "2026-11-09"
+    }
+  ],
+  "questions": [
+    {
+      "id": "cur-001",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "2016 年，哪個北大西洋群島把全景攝影機綁在羊背上，發起「Sheep View」？",
+      "answer": "法羅群島",
+      "aliases": [
+        "法羅",
+        "Faroe Islands",
+        "Faroes"
+      ],
+      "options": [],
+      "explanation": "當地觀光團隊讓羊帶著相機記錄山坡，藉此爭取街景服務。這段故事發生在法羅群島，不是法屬群島。",
+      "sourceIds": [
+        "cur-src-sheep"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-002",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "大小代奧米德島隔海相望，一邊是美國，另一邊是哪個國家？",
+      "answer": "俄羅斯",
+      "aliases": [
+        "Russia",
+        "俄國"
+      ],
+      "options": [],
+      "explanation": "小代奧米德島屬美國，大代奧米德島屬俄羅斯。特定冬季條件下可能結成冰橋，但這不是可以自由步行跨境的路線。",
+      "sourceIds": [
+        "cur-src-diomede"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-003",
+      "category": "科技與導航",
+      "type": "fill",
+      "prompt": "GPS 衛星的時鐘必須修正速度與重力造成的差異，這涉及愛因斯坦的哪套理論？",
+      "answer": "相對論",
+      "aliases": [
+        "相對論理論",
+        "相對論效應",
+        "relativity",
+        "相對性理論"
+      ],
+      "options": [],
+      "explanation": "衛星移動速度與所在重力環境，對時間有不同影響。GPS 的精準定位必須把這些微小差異算進去。",
+      "sourceIds": [
+        "cur-src-gpsrel"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-004",
+      "category": "科技與導航",
+      "type": "fill",
+      "prompt": "GPS 衛星搭載哪一類高精準度時鐘，用來提供定位所需的時間資訊？",
+      "answer": "原子鐘",
+      "aliases": [
+        "原子時鐘",
+        "atomic clock",
+        "atomic clocks"
+      ],
+      "options": [],
+      "explanation": "定位靠的是訊號傳播時間；極微小的時鐘誤差也會轉成距離誤差。衛星上的原子鐘仍需修正相對論效應。",
+      "sourceIds": [
+        "cur-src-gpsrel"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-005",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "1884 年的國際會議選定哪個英國天文台所在地，作為本初子午線的基準？",
+      "answer": "格林威治",
+      "aliases": [
+        "格林威治天文台",
+        "格林威治皇家天文台",
+        "Greenwich"
+      ],
+      "options": [],
+      "explanation": "十九世紀已有大量航海圖採用格林威治子午線，讓它成為統一經度基準時的重要候選地。",
+      "sourceIds": [
+        "cur-src-greenwich"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-006",
+      "category": "航空與機場",
+      "type": "fill",
+      "prompt": "Westray 與 Papa Westray 間約 90 秒的定期航班，位於英國哪個構成國？",
+      "answer": "蘇格蘭",
+      "aliases": [
+        "Scotland"
+      ],
+      "options": [],
+      "explanation": "這條奧克尼群島間的短程航線由 Loganair 營運；它是居民的島際交通，也因飛行時間極短而聞名。",
+      "sourceIds": [
+        "cur-src-shortflight"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-007",
+      "category": "航空與機場",
+      "type": "fill",
+      "prompt": "跑道標示「09」通常表示飛機沿跑道朝約 90 度前進，也就是朝哪個方位？",
+      "answer": "東",
+      "aliases": [
+        "東方",
+        "正東",
+        "east",
+        "E"
+      ],
+      "options": [],
+      "explanation": "跑道號碼通常以磁方位角除以十並取整數表示，09 大致對應東方；它不是跑道的流水編號。",
+      "sourceIds": [
+        "cur-src-runway"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-008",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "哪個西伯利亞湖泊以世界最深湖泊聞名，還保存了非常長的地質紀錄？",
+      "answer": "貝加爾湖",
+      "aliases": [
+        "貝加爾",
+        "Lake Baikal",
+        "Baikal"
+      ],
+      "options": [],
+      "explanation": "貝加爾湖位於活動裂谷中，深度超過 1,600 公尺，沉積物則像長篇日記，留下環境變遷的線索。",
+      "sourceIds": [
+        "cur-src-baikal"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-009",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "的的喀喀湖位於祕魯與哪個南美洲國家的邊界？",
+      "answer": "玻利維亞",
+      "aliases": [
+        "Bolivia"
+      ],
+      "options": [],
+      "explanation": "這座高原湖位於安地斯山地，湖面海拔約 3,810 公尺，湖底也發現古代聚落與文化遺物。",
+      "sourceIds": [
+        "cur-src-titicaca"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-010",
+      "category": "科技與導航",
+      "type": "fill",
+      "prompt": "十九世紀的斯特魯維測地弧，透過連續量測哪種三邊形狀，研究地球的大小與形狀？",
+      "answer": "三角形",
+      "aliases": [
+        "三角",
+        "triangle",
+        "triangles"
+      ],
+      "options": [],
+      "explanation": "測量者將三角測量網串成跨越多地的長弧，以量測一段子午線，而不是直接拿尺繞地球一圈。",
+      "sourceIds": [
+        "cur-src-struve"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-011",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "哪片大西洋海域以洋流界定邊緣，被 NOAA 稱為唯一沒有陸地邊界的海？",
+      "answer": "馬尾藻海",
+      "aliases": [
+        "薩爾加索海",
+        "Sargasso Sea",
+        "Sargasso"
+      ],
+      "options": [],
+      "explanation": "馬尾藻海位於大西洋內部，得名於漂浮的馬尾藻。它不像地中海那樣被陸地包圍。",
+      "sourceIds": [
+        "cur-src-sargasso"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-012",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "如果改比「山頂離地球中心多遠」，勝過聖母峰的厄瓜多山峰是哪一座？",
+      "answer": "欽博拉索山",
+      "aliases": [
+        "欽博拉索",
+        "Chimborazo",
+        "Mount Chimborazo"
+      ],
+      "options": [],
+      "explanation": "地球在赤道附近比較鼓。欽博拉索山雖然海拔較低，山頂卻比聖母峰更遠離地心。",
+      "sourceIds": [
+        "cur-src-mountains"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-013",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "若從海底的山腳量到山頂，夏威夷哪座火山高度超過一萬公尺？",
+      "answer": "冒納凱阿火山",
+      "aliases": [
+        "冒納凱阿",
+        "毛納基山",
+        "茂納凱亞山",
+        "Mauna Kea",
+        "Mauna Kea volcano"
+      ],
+      "options": [],
+      "explanation": "冒納凱阿的大部分山體藏在太平洋海面下。比較山高之前，得先約定從海平面還是山腳開始量。",
+      "sourceIds": [
+        "cur-src-mountains"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-014",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "海洋中距離任何陸地最遠的位置，有個取自小說船長名字的稱呼，叫什麼「點」？",
+      "answer": "尼莫點",
+      "aliases": [
+        "尼莫",
+        "Point Nemo",
+        "Nemo"
+      ],
+      "options": [],
+      "explanation": "尼莫點位於南太平洋，距最近的陸地約 2,688 公里；「偏遠」在這裡是可以用幾何方式計算的。",
+      "sourceIds": [
+        "cur-src-nemo"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-015",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "伊盧利薩特冰峽灣裡的大量冰山，位於哪個世界最大島嶼的西岸？",
+      "answer": "格陵蘭",
+      "aliases": [
+        "格陵蘭島",
+        "Greenland"
+      ],
+      "options": [],
+      "explanation": "這裡是格陵蘭冰蓋通向海洋的出口之一；冰川崩解時，巨大的冰塊進入峽灣。",
+      "sourceIds": [
+        "cur-src-ilulissat"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-016",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "有大量特有植物、被譽為「印度洋的加拉巴哥」的索科特拉群島，屬於哪個國家？",
+      "answer": "葉門",
+      "aliases": [
+        "也門",
+        "Yemen"
+      ],
+      "options": [],
+      "explanation": "索科特拉的隔離環境形成獨特生態。UNESCO 特別指出當地植物、爬蟲類與陸生蝸牛的高特有種比例。",
+      "sourceIds": [
+        "cur-src-socotra"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-017",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "納米布沙海的許多生命，主要依靠哪種貼近地面的水氣現象取得水分？",
+      "answer": "霧",
+      "aliases": [
+        "霧氣",
+        "海霧",
+        "fog"
+      ],
+      "options": [],
+      "explanation": "納米布沿海沙丘的水源不只看降雨。霧為這個乾旱環境提供關鍵水分，生物也演化出相應的適應方式。",
+      "sourceIds": [
+        "cur-src-namib"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-018",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "1963 年從海底火山噴發中誕生的蘇爾特塞島，位於哪個北大西洋國家外海？",
+      "answer": "冰島",
+      "aliases": [
+        "Iceland"
+      ],
+      "options": [],
+      "explanation": "蘇爾特塞從海中形成後受到嚴格保護，讓研究者觀察生命如何逐漸進入新的陸地。",
+      "sourceIds": [
+        "cur-src-surtsey"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-019",
+      "category": "交通與鐵道",
+      "type": "fill",
+      "prompt": "英法海底隧道除了兩條列車隧道，中央還有一條主要供維護與安全使用的什麼隧道？",
+      "answer": "服務隧道",
+      "aliases": [
+        "維修隧道",
+        "維護隧道",
+        "service tunnel"
+      ],
+      "options": [],
+      "explanation": "跨海工程並非只有兩根鐵路管道；中央服務隧道是維護、通風與安全安排的一部分。",
+      "sourceIds": [
+        "cur-src-channelbuild"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-020",
+      "category": "交通與鐵道",
+      "type": "fill",
+      "prompt": "2016 年投入營運、長約 57 公里的聖哥達基線隧道，位於哪個國家？",
+      "answer": "瑞士",
+      "aliases": [
+        "Switzerland"
+      ],
+      "options": [],
+      "explanation": "基線隧道讓列車以較低、較平坦的路線穿越阿爾卑斯山，與翻越山地的舊線形成不同運輸條件。",
+      "sourceIds": [
+        "cur-src-gotthard"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-021",
+      "category": "交通與鐵道",
+      "type": "fill",
+      "prompt": "福爾柯克輪用旋轉方式把船送往較高運河，位於英國哪個構成國？",
+      "answer": "蘇格蘭",
+      "aliases": [
+        "Scotland"
+      ],
+      "options": [],
+      "explanation": "它是一座旋轉升船機，連接福斯與克萊德運河和聯合運河，把船連同水槽一起升降。",
+      "sourceIds": [
+        "cur-src-falkirk"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-022",
+      "category": "交通與鐵道",
+      "type": "fill",
+      "prompt": "1863 年向公眾開放的 Metropolitan Railway，是哪座城市的地下鐵起點？",
+      "answer": "倫敦",
+      "aliases": [
+        "London"
+      ],
+      "options": [],
+      "explanation": "這段早期地下鐵連接帕丁頓與法靈頓，施工大量採用先挖開地面、建造後再覆蓋的方式。",
+      "sourceIds": [
+        "cur-src-london"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-023",
+      "category": "交通與鐵道",
+      "type": "fill",
+      "prompt": "倫敦最早的地下鐵列車，靠電力還是什麼動力行駛？",
+      "answer": "蒸汽",
+      "aliases": [
+        "蒸氣",
+        "蒸汽動力",
+        "蒸汽機",
+        "蒸汽機車",
+        "steam"
+      ],
+      "options": [],
+      "explanation": "最早的地下鐵並非電車。蒸汽機車在淺層隧道內行駛，通風與煙霧也因此成為重要問題。",
+      "sourceIds": [
+        "cur-src-steam"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-024",
+      "category": "交通與鐵道",
+      "type": "fill",
+      "prompt": "東海道新幹線在東京奧運同年的哪一年開始營運？請填西元年份。",
+      "answer": "1964",
+      "aliases": [
+        "1964年",
+        "一九六四"
+      ],
+      "options": [],
+      "explanation": "新幹線於 1964 年 10 月 1 日開業，先以東京與大阪之間的高速鐵路回應龐大運輸需求。",
+      "sourceIds": [
+        "cur-src-shinkansen"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-025",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "蘇聯將河水大量轉作灌溉後，哪個中亞內陸水體大幅萎縮，留下沙地上的船骸？",
+      "answer": "鹹海",
+      "aliases": [
+        "咸海",
+        "Aral Sea"
+      ],
+      "options": [],
+      "explanation": "鹹海的主要入流水被改道使用，造成湖水大幅退縮。衛星影像記錄了這場人為改變地景的過程。",
+      "sourceIds": [
+        "cur-src-aral"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-026",
+      "category": "國家與文化",
+      "type": "fill",
+      "prompt": "加拿大在 2022 年簽訂漢斯島邊界協議的歐洲王國是哪個？",
+      "answer": "丹麥",
+      "aliases": [
+        "丹麥王國",
+        "Denmark"
+      ],
+      "options": [],
+      "explanation": "協議由加拿大、丹麥與格陵蘭方面共同處理長期邊界問題；遠在北極的小島也能改寫相鄰國家的名單。",
+      "sourceIds": [
+        "cur-src-hans"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-027",
+      "category": "國家與文化",
+      "type": "fill",
+      "prompt": "巴勒的複雜飛地讓房子可能跨越荷蘭與哪個鄰國？",
+      "answer": "比利時",
+      "aliases": [
+        "Belgium"
+      ],
+      "options": [],
+      "explanation": "巴勒存在荷蘭與比利時互相包圍的飛地，當地甚至以門口位置判斷居民登記歸屬。",
+      "sourceIds": [
+        "cur-src-baarle"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-028",
+      "category": "國家與文化",
+      "type": "fill",
+      "prompt": "奧蘭群島屬芬蘭，但其唯一官方語言是什麼？",
+      "answer": "瑞典語",
+      "aliases": [
+        "瑞典文",
+        "Swedish"
+      ],
+      "options": [],
+      "explanation": "奧蘭有自治議會，語言安排也與芬蘭本土不同；芬蘭本土有芬蘭語及瑞典語兩種官方語言。",
+      "sourceIds": [
+        "cur-src-aland"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-029",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "賴索托的領土完全被哪個國家包圍？",
+      "answer": "南非",
+      "aliases": [
+        "South Africa",
+        "南非共和國"
+      ],
+      "options": [],
+      "explanation": "這個山地王國是典型的國中之國：跨越其陸地國界，另一側都是南非。",
+      "sourceIds": [
+        "cur-src-southafrica"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-030",
+      "category": "航空與機場",
+      "type": "fill",
+      "prompt": "飛機俗稱的「黑盒子」，為了容易尋獲通常塗成什麼顏色？",
+      "answer": "橘色",
+      "aliases": [
+        "橙色",
+        "橙",
+        "橘",
+        "orange"
+      ],
+      "options": [],
+      "explanation": "鮮明的橘色方便事故後辨識與回收。「黑盒子」是俗稱，不是外殼顏色的描述。",
+      "sourceIds": [
+        "cur-src-blackbox"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-031",
+      "category": "航空與機場",
+      "type": "fill",
+      "prompt": "航空與航海常用的 1 國際海里，精確等於多少公尺？",
+      "answer": "1852",
+      "aliases": [
+        "1852公尺",
+        "1,852",
+        "1852米"
+      ],
+      "options": [],
+      "explanation": "海里用於航行距離，與陸上常見的英里不同。速度單位「節」也建立在海里之上。",
+      "sourceIds": [
+        "cur-src-mile"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-032",
+      "category": "航空與機場",
+      "type": "fill",
+      "prompt": "每小時航行 1 海里的速度，稱為 1 個什麼單位？",
+      "answer": "節",
+      "aliases": [
+        "knot",
+        "knots",
+        "kt",
+        "kn"
+      ],
+      "options": [],
+      "explanation": "節是速度單位，海里是距離單位；「每小時幾節」會把時間重複算進單位裡。",
+      "sourceIds": [
+        "cur-src-knot"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-033",
+      "category": "航空與機場",
+      "type": "fill",
+      "prompt": "航空無線電拼字字母表中，字母 A 的正式代詞是什麼？請填英文。",
+      "answer": "Alfa",
+      "aliases": [
+        "Alpha"
+      ],
+      "options": [],
+      "explanation": "正式拼法是 Alfa，讓不同語言背景的使用者能更一致地念出它；本題也接受常見的 Alpha 拼法。",
+      "sourceIds": [
+        "cur-src-alphabet"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-034",
+      "category": "航空與機場",
+      "type": "fill",
+      "prompt": "中緯度高空噴射氣流通常由西向哪個方位吹？",
+      "answer": "東",
+      "aliases": [
+        "東方",
+        "east",
+        "E"
+      ],
+      "options": [],
+      "explanation": "這種狹長的強風帶會影響天氣與航程；相反方向的航班即使路線相近，也可能有不同飛行時間。",
+      "sourceIds": [
+        "cur-src-jet"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-035",
+      "category": "交通與鐵道",
+      "type": "fill",
+      "prompt": "Qhapaq Ñan 安地斯道路系統，是哪個南美洲帝國的重要交通網？",
+      "answer": "印加帝國",
+      "aliases": [
+        "印加",
+        "Inca",
+        "Inca Empire"
+      ],
+      "options": [],
+      "explanation": "這套道路用來連接不同地形與聚落，服務傳訊、貿易及防禦，遺存如今跨越多個國家。",
+      "sourceIds": [
+        "cur-src-inca"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-036",
+      "category": "交通與鐵道",
+      "type": "fill",
+      "prompt": "讓運河船隻從高處橫越山谷的龐特卡薩魯特水道橋，位於英國哪個構成國？",
+      "answer": "威爾斯",
+      "aliases": [
+        "威爾士",
+        "Wales"
+      ],
+      "options": [],
+      "explanation": "這座工業革命時期工程將水道架在高橋上，船在橋上行駛，人們也能從旁側步道觀看山谷。",
+      "sourceIds": [
+        "cur-src-pont"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-037",
+      "category": "交通與鐵道",
+      "type": "fill",
+      "prompt": "塞默林鐵路是早期跨越高山的重要鐵路工程，位於哪個中歐國家？",
+      "answer": "奧地利",
+      "aliases": [
+        "Austria"
+      ],
+      "options": [],
+      "explanation": "十九世紀中葉建成的路線，透過隧道與高架橋克服山地，使交通與山區休閒活動一起發展。",
+      "sourceIds": [
+        "cur-src-semmering"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-038",
+      "category": "交通與鐵道",
+      "type": "fill",
+      "prompt": "印度尼爾吉里山地鐵路為攀爬陡坡，採用齒輪咬合哪種軌道構造？",
+      "answer": "齒軌",
+      "aliases": [
+        "齒條軌道",
+        "齒條",
+        "齒軌鐵路",
+        "rack",
+        "rack rail"
+      ],
+      "options": [],
+      "explanation": "齒軌與列車上的齒輪相互咬合，讓列車不只依賴平滑輪軌間的摩擦力爬坡。",
+      "sourceIds": [
+        "cur-src-india"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-039",
+      "category": "國家與文化",
+      "type": "fill",
+      "prompt": "哪個太平洋島國沒有正式首都，政府機關設在亞倫區？",
+      "answer": "諾魯",
+      "aliases": [
+        "瑙魯",
+        "Nauru"
+      ],
+      "options": [],
+      "explanation": "旅遊資料常把亞倫寫在首都欄，但更精確的說法是政府所在地，並非正式指定的首都。",
+      "sourceIds": [
+        "cur-src-nauru"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-040",
+      "category": "國家與文化",
+      "type": "fill",
+      "prompt": "哪個國家的國旗以雙三角旗形聞名，而不是一般四邊形？",
+      "answer": "尼泊爾",
+      "aliases": [
+        "Nepal"
+      ],
+      "options": [],
+      "explanation": "尼泊爾保留特殊的雙旗形輪廓，旗上有日月圖案，與一般矩形國旗非常不同。",
+      "sourceIds": [
+        "cur-src-nepal"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-041",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "法國與哪個南美洲國家接壤，而且這是法國最長的一段陸地國界？",
+      "answer": "巴西",
+      "aliases": [
+        "Brazil"
+      ],
+      "options": [],
+      "explanation": "答案來自法屬圭亞那。比較法國國界時，如果只看歐洲本土，就會漏掉這段南美洲邊界。",
+      "sourceIds": [
+        "cur-src-france"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-042",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "歐洲唯一的雙重內陸國，被瑞士與奧地利包圍，是哪個國家？",
+      "answer": "列支敦斯登",
+      "aliases": [
+        "Liechtenstein"
+      ],
+      "options": [],
+      "explanation": "雙重內陸表示鄰國也都沒有海岸，要經由陸路走到海邊，至少還需跨越兩道國界。",
+      "sourceIds": [
+        "cur-src-double"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-043",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "與列支敦斯登並列為雙重內陸國的中亞國家是哪一個？",
+      "answer": "烏茲別克",
+      "aliases": [
+        "烏茲別克斯坦",
+        "Uzbekistan"
+      ],
+      "options": [],
+      "explanation": "烏茲別克的每個鄰國也都是內陸國；裡海是封閉內陸水體，因此不算通往世界海洋的海岸。",
+      "sourceIds": [
+        "cur-src-double"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-044",
+      "category": "交通與鐵道",
+      "type": "fill",
+      "prompt": "「阿里山火車碰壁」形容列車一進一退爬坡，對應哪個英文字母形狀的路線？",
+      "answer": "Z",
+      "aliases": [
+        "Z字形",
+        "Z字型",
+        "之字形",
+        "之字型"
+      ],
+      "options": [],
+      "explanation": "這是因地形狹窄而採用的折返式爬坡，列車改變行進方向來逐段升高，不是真的撞到山壁。",
+      "sourceIds": [
+        "cur-src-alishan"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-045",
+      "category": "交通與鐵道",
+      "type": "fill",
+      "prompt": "阿里山林業鐵路用螺旋方式繞行攀升的著名山體，叫什麼山？",
+      "answer": "獨立山",
+      "aliases": [
+        "獨立"
+      ],
+      "options": [],
+      "explanation": "列車繞著獨立山逐漸爬高，把需要的高度差攤到較長路線上，是因應山勢的工程設計。",
+      "sourceIds": [
+        "cur-src-alishan"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-046",
+      "category": "國家與文化",
+      "type": "fill",
+      "prompt": "依外交部館址資料，教廷大使館在臺北哪條「東路」的二段巷內？",
+      "answer": "和平東路",
+      "aliases": [
+        "和平東路二段",
+        "和平東路2段"
+      ],
+      "options": [],
+      "explanation": "外交部列出的地址為和平東路二段 265 巷，並非天母的使館聚落。館址屬可能變動資訊，這裡以查核日資料為準。",
+      "sourceIds": [
+        "cur-src-vatican"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-047",
+      "category": "交通與鐵道",
+      "type": "fill",
+      "prompt": "金氏世界紀錄列出的丹崑特大橋，服務的是公路還是哪一種交通系統？",
+      "answer": "高速鐵路",
+      "aliases": [
+        "高鐵",
+        "鐵路",
+        "鐵道",
+        "high speed rail",
+        "railway"
+      ],
+      "options": [],
+      "explanation": "丹崑特大橋是京滬高鐵的一部分。「最長橋」不一定是一眼望去跨越大海的公路橋。",
+      "sourceIds": [
+        "cur-src-bridge"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-048",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "海嘯在深海中的速度，主要隨哪個與海底距離有關的量改變？",
+      "answer": "水深",
+      "aliases": [
+        "海深",
+        "海水深度",
+        "深度",
+        "depth",
+        "water depth"
+      ],
+      "options": [],
+      "explanation": "海嘯是長波，深水中的傳播速度可以非常快；進入較淺海域後會減速，波高也可能增加。",
+      "sourceIds": [
+        "cur-src-tsunami"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-049",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "海洋最深處的「挑戰者深淵」，位於哪一條海溝？",
+      "answer": "馬里亞納海溝",
+      "aliases": [
+        "馬里亞納",
+        "Mariana Trench",
+        "Marianas Trench"
+      ],
+      "options": [],
+      "explanation": "它位於西太平洋、馬里亞納海溝的南端。深度測量會受設備與方法影響，所以紀錄值需要註明來源。",
+      "sourceIds": [
+        "cur-src-deep"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-050",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "地圖上分隔相鄰兩個日曆日期的那條線，稱為什麼？",
+      "answer": "國際換日線",
+      "aliases": [
+        "換日線",
+        "國際日期變更線",
+        "International Date Line",
+        "date line"
+      ],
+      "options": [],
+      "explanation": "換日線是地圖上的日期分界；它並不是每個地點都沿著同一條筆直經線通過。",
+      "sourceIds": [
+        "cur-src-dateline"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-051",
+      "category": "科技與導航",
+      "type": "fill",
+      "prompt": "一般 GPS 定位若要同時求三維位置與接收器時鐘誤差，至少需要幾顆衛星的訊號？",
+      "answer": "4",
+      "aliases": [
+        "四",
+        "4顆",
+        "四顆"
+      ],
+      "options": [],
+      "explanation": "三個空間座標加上一個時鐘偏差，共有四個未知數。第四顆衛星不只是讓地圖多一點裝飾。",
+      "sourceIds": [
+        "cur-src-gps"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-052",
+      "category": "科技與導航",
+      "type": "fill",
+      "prompt": "歐盟自己的全球衛星導航系統，以哪位義大利科學家的名字命名？",
+      "answer": "伽利略",
+      "aliases": [
+        "Galileo",
+        "伽利略系統"
+      ],
+      "options": [],
+      "explanation": "Galileo 是歐盟的全球導航衛星系統；現代手機可能同時使用不同系統的衛星訊號。",
+      "sourceIds": [
+        "cur-src-galileo"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-053",
+      "category": "科技與導航",
+      "type": "fill",
+      "prompt": "要讓地球同步「靜止」衛星一直停在地面同一點上空，其軌道必須位於哪條緯線上方？",
+      "answer": "赤道",
+      "aliases": [
+        "赤道上空",
+        "equator",
+        "0度緯線",
+        "零度緯線"
+      ],
+      "options": [],
+      "explanation": "靜止軌道需要與地球自轉同步，且軌道平面與赤道一致，才會在地面看起來固定不動。",
+      "sourceIds": [
+        "cur-src-orbit"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-054",
+      "category": "科技與導航",
+      "type": "fill",
+      "prompt": "Tim Berners-Lee 發明全球資訊網時，任職於哪個歐洲粒子物理研究機構？",
+      "answer": "CERN",
+      "aliases": [
+        "歐洲核子研究組織",
+        "歐洲核子研究中心",
+        "歐洲粒子物理研究中心"
+      ],
+      "options": [],
+      "explanation": "全球資訊網原本是為科學家分享資訊而構想，第一個網站介紹的也是 Web 計畫本身。",
+      "sourceIds": [
+        "cur-src-web"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-055",
+      "category": "科技與導航",
+      "type": "fill",
+      "prompt": "全球第一個網站 info.cern.ch，最初介紹的就是哪個三字母技術計畫？",
+      "answer": "WWW",
+      "aliases": [
+        "World Wide Web",
+        "全球資訊網",
+        "萬維網",
+        "Web"
+      ],
+      "options": [],
+      "explanation": "最早的網站教人理解與使用全球資訊網；它不是購物網站，也不是入口搜尋引擎。",
+      "sourceIds": [
+        "cur-src-web"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-056",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "北愛爾蘭巨人堤道的整齊多角形石柱，主要由哪種火山岩組成？",
+      "answer": "玄武岩",
+      "aliases": [
+        "basalt"
+      ],
+      "options": [],
+      "explanation": "看起來像人工鋪路的柱狀構造來自火山活動與冷卻作用，並非真的由巨人或古人切割堆砌。",
+      "sourceIds": [
+        "cur-src-causeway"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-057",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "瓦登海世界遺產跨越荷蘭、德國與哪個北歐國家的海岸？",
+      "answer": "丹麥",
+      "aliases": [
+        "Denmark"
+      ],
+      "options": [],
+      "explanation": "瓦登海的潮間帶沙洲與泥灘是一套連續的自然系統，國界沒有把潮汐與生物遷移切開。",
+      "sourceIds": [
+        "cur-src-wadden"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-058",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "越南下龍灣海面上的峰林島嶼，主要由哪種容易受溶蝕的沉積岩組成？",
+      "answer": "石灰岩",
+      "aliases": [
+        "limestone"
+      ],
+      "options": [],
+      "explanation": "下龍灣的景觀是石灰岩喀斯特地形與海水共同塑造的結果，不是整片火山群。",
+      "sourceIds": [
+        "cur-src-halong"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-059",
+      "category": "交通與鐵道",
+      "type": "fill",
+      "prompt": "雷蒂亞鐵路的阿爾布拉與伯連納線，穿越歐洲哪條著名山脈？",
+      "answer": "阿爾卑斯山",
+      "aliases": [
+        "阿爾卑斯",
+        "阿爾卑斯山脈",
+        "Alps"
+      ],
+      "options": [],
+      "explanation": "這兩條歷史鐵路利用大量橋梁與隧道穿越山口，將原本較孤立的山區聚落連接起來。",
+      "sourceIds": [
+        "cur-src-rhaetian"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-060",
+      "category": "航空與機場",
+      "type": "fill",
+      "prompt": "同一條實體跑道多年後可能需要重新編號，是因為哪個「北」的位置會變動？",
+      "answer": "磁北",
+      "aliases": [
+        "磁北極",
+        "magnetic north"
+      ],
+      "options": [],
+      "explanation": "跑道號碼通常依磁方位角決定。地球磁場緩慢變化，可能讓跑道需要改用新號碼。",
+      "sourceIds": [
+        "cur-src-runwaychange"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-061",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "斯特魯維測地弧的世界遺產點位分布於幾個國家？",
+      "answer": "10",
+      "aliases": [
+        "十",
+        "十個",
+        "10個"
+      ],
+      "options": [],
+      "explanation": "這項跨國測量工程的遺存由十國共同保存，是把科學協作本身留在地景上的例子。",
+      "sourceIds": [
+        "cur-src-struve"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-062",
+      "category": "科技與導航",
+      "type": "fill",
+      "prompt": "十九世紀斯特魯維測地弧想量出的是地球的大小與什麼？",
+      "answer": "形狀",
+      "aliases": [
+        "外形",
+        "形態",
+        "shape"
+      ],
+      "options": [],
+      "explanation": "長距離子午線測量有助於確認地球並非完美球體，為後來測繪與大地測量建立重要基礎。",
+      "sourceIds": [
+        "cur-src-struve"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-063",
+      "category": "國家與文化",
+      "type": "fill",
+      "prompt": "南非的國會設在哪一座被稱為立法首都的城市？",
+      "answer": "開普敦",
+      "aliases": [
+        "Cape Town"
+      ],
+      "options": [],
+      "explanation": "南非將行政、立法等功能分在不同城市。開普敦是國會所在地，因此不能用單一城市概括所有首都功能。",
+      "sourceIds": [
+        "cur-src-southafrica"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-064",
+      "category": "國家與文化",
+      "type": "fill",
+      "prompt": "巴勒居民登記屬荷蘭還是比利時，當地著名規則主要看房子的哪個位置？",
+      "answer": "大門",
+      "aliases": [
+        "前門",
+        "正門",
+        "入口",
+        "門口",
+        "front door"
+      ],
+      "options": [],
+      "explanation": "跨境房屋的特殊情況使「門口規則」格外有名。不是每棟房子都能靠整個建築位於哪一國來簡單判斷。",
+      "sourceIds": [
+        "cur-src-baarle"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-065",
+      "category": "國家與文化",
+      "type": "fill",
+      "prompt": "奧蘭群島雖屬芬蘭，其自治議會之外，還因輪渡免稅購物而不在歐盟哪種稅的適用區內？",
+      "answer": "增值稅",
+      "aliases": [
+        "加值稅",
+        "VAT",
+        "附加價值稅"
+      ],
+      "options": [],
+      "explanation": "奧蘭不屬歐盟的增值稅區，與往返芬蘭和瑞典的輪渡免稅銷售安排有關。這不代表它完全不屬歐盟。",
+      "sourceIds": [
+        "cur-src-aland"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-066",
+      "category": "航空與機場",
+      "type": "fill",
+      "prompt": "飛機上的 CVR 主要記錄駕駛艙的什麼類型資訊？",
+      "answer": "聲音",
+      "aliases": [
+        "音訊",
+        "錄音",
+        "語音",
+        "聲響",
+        "audio",
+        "sound"
+      ],
+      "options": [],
+      "explanation": "CVR 不只錄飛行員對話，也能留下無線電、警報、開關與引擎等聲響，協助還原當時環境。",
+      "sourceIds": [
+        "cur-src-blackbox"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-067",
+      "category": "航空與機場",
+      "type": "fill",
+      "prompt": "航空拼字字母表中，J 的正式代詞尾端有兩個 t，這個詞是什麼？",
+      "answer": "Juliett",
+      "aliases": [
+        "Juliet"
+      ],
+      "options": [],
+      "explanation": "這套拼字詞用來減少雜訊或口音造成的字母混淆；Juliett 是正式寫法，本題也接受 Juliet。",
+      "sourceIds": [
+        "cur-src-alphabet"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-068",
+      "category": "交通與鐵道",
+      "type": "fill",
+      "prompt": "阿里山林業鐵路最初修築的核心用途，是運送哪一種森林資源？",
+      "answer": "木材",
+      "aliases": [
+        "原木",
+        "木頭",
+        "timber",
+        "wood"
+      ],
+      "options": [],
+      "explanation": "阿里山鐵路原本是林業運輸工程，後來才成為大家熟悉的觀光與文化資產。",
+      "sourceIds": [
+        "cur-src-alishan"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-069",
+      "category": "交通與鐵道",
+      "type": "fill",
+      "prompt": "阿里山林業鐵路的窄軌軌距是多少公釐？",
+      "answer": "762",
+      "aliases": [
+        "762mm",
+        "762公釐",
+        "762毫米"
+      ],
+      "options": [],
+      "explanation": "762 公釐的窄軌搭配特殊機車與路線設計，適應狹窄而曲折的山地環境。",
+      "sourceIds": [
+        "cur-src-alishan"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-070",
+      "category": "交通與鐵道",
+      "type": "fill",
+      "prompt": "Qhapaq Ñan 世界遺產道路網由幾個南美洲國家共同保護？",
+      "answer": "6",
+      "aliases": [
+        "六",
+        "六個",
+        "6個"
+      ],
+      "options": [],
+      "explanation": "這六國是阿根廷、玻利維亞、智利、哥倫比亞、厄瓜多與祕魯；古老交通網並不配合今日國界分段。",
+      "sourceIds": [
+        "cur-src-inca"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-071",
+      "category": "交通與鐵道",
+      "type": "fill",
+      "prompt": "印度大吉嶺喜馬拉雅鐵路透過迴圈與折返爬山，它採用的是寬軌還是窄軌？",
+      "answer": "窄軌",
+      "aliases": [
+        "窄軌鐵路",
+        "narrow gauge"
+      ],
+      "options": [],
+      "explanation": "這條鐵路的軌距約 0.61 公尺，精巧的線形把平地與喜馬拉雅山麓連接起來。",
+      "sourceIds": [
+        "cur-src-india"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-072",
+      "category": "交通與鐵道",
+      "type": "fill",
+      "prompt": "龐特卡薩魯特水道橋的輕巧金屬構造，大量使用鑄鐵與哪一類可鍛打的鐵？",
+      "answer": "鍛鐵",
+      "aliases": [
+        "熟鐵",
+        "wrought iron"
+      ],
+      "options": [],
+      "explanation": "這座水道橋結合鑄鐵與鍛鐵技術，呈現工業革命時代以金屬跨越地形障礙的工程突破。",
+      "sourceIds": [
+        "cur-src-pont"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-073",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "納米布沙海位於哪一個非洲國家？",
+      "answer": "納米比亞",
+      "aliases": [
+        "Namibia"
+      ],
+      "options": [],
+      "explanation": "沙海沿著南大西洋岸展開，沙粒的旅程包含河流輸送、海流搬運和風吹，並非全在原地風化形成。",
+      "sourceIds": [
+        "cur-src-namib"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-074",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "索科特拉群島位於印度洋，靠近哪個以阿拉伯半島南方港市命名的海灣？",
+      "answer": "亞丁灣",
+      "aliases": [
+        "亞丁",
+        "Gulf of Aden"
+      ],
+      "options": [],
+      "explanation": "群島位於印度洋西北部，接近非洲之角；其特殊地理位置與隔離共同影響自然環境。",
+      "sourceIds": [
+        "cur-src-socotra"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-075",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "1963 年新生的蘇爾特塞島，是由哪一種地質活動形成？",
+      "answer": "火山噴發",
+      "aliases": [
+        "火山",
+        "海底火山噴發",
+        "海底火山",
+        "volcanic eruption"
+      ],
+      "options": [],
+      "explanation": "海底岩漿噴發、堆積，逐漸形成高於海面的新島；海浪侵蝕之後又繼續改變其輪廓。",
+      "sourceIds": [
+        "cur-src-surtsey"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-076",
+      "category": "科技與導航",
+      "type": "fill",
+      "prompt": "如果忽略相對論修正，GPS 衛星原子鐘綜合速度與重力效應後，每天大約快多少微秒？",
+      "answer": "38",
+      "aliases": [
+        "38微秒",
+        "三十八"
+      ],
+      "options": [],
+      "explanation": "速度效應讓鐘變慢，較弱重力則讓它變快，合計約快 38 微秒。導航系統不能忽略這種看似極小的差異。",
+      "sourceIds": [
+        "cur-src-gpsrel"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-077",
+      "category": "交通與鐵道",
+      "type": "fill",
+      "prompt": "英法海底隧道中的一般汽車，是自行駕駛穿越隧道，還是搭上哪種交通工具通過？",
+      "answer": "火車",
+      "aliases": [
+        "列車",
+        "接駁列車",
+        "汽車接駁列車",
+        "train"
+      ],
+      "options": [],
+      "explanation": "Eurotunnel 的車輛接駁列車把車載進鐵路隧道；這不是一條讓汽車自行開過海底的公路。",
+      "sourceIds": [
+        "cur-src-channel"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-078",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "1995 年為讓全國島嶼處於換日線同一側，而調整日期分界的太平洋國家是哪個？",
+      "answer": "吉里巴斯",
+      "aliases": [
+        "吉里巴斯共和國",
+        "基里巴斯",
+        "Kiribati"
+      ],
+      "options": [],
+      "explanation": "群島橫跨廣大海域，日期分界可以因地方需求而調整，並非不可變更的自然界線。",
+      "sourceIds": [
+        "cur-src-dateline"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-079",
+      "category": "科技與導航",
+      "type": "fill",
+      "prompt": "全球資訊網最初被構想出來，是為了讓哪一種研究工作者跨機構分享資訊？",
+      "answer": "科學家",
+      "aliases": [
+        "研究人員",
+        "科研人員",
+        "科學研究者",
+        "scientists",
+        "researchers"
+      ],
+      "options": [],
+      "explanation": "Web 起源於研究協作需求，讓不同大學與研究機構能連結文件，不是先為社群廣告或網購而設計。",
+      "sourceIds": [
+        "cur-src-web"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-080",
+      "category": "地圖與地理",
+      "type": "fill",
+      "prompt": "巨人堤道位於愛爾蘭島上的哪一個英國構成地區？",
+      "answer": "北愛爾蘭",
+      "aliases": [
+        "Northern Ireland"
+      ],
+      "options": [],
+      "explanation": "巨人堤道位於安特里姆海岸。查地點時，要區分整座愛爾蘭島、愛爾蘭共和國及北愛爾蘭。",
+      "sourceIds": [
+        "cur-src-causeway"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-081",
+      "category": "航空與機場",
+      "type": "choice",
+      "prompt": "同一跑道兩端的編號通常相差多少？",
+      "answer": "18",
+      "aliases": [],
+      "options": [
+        "9",
+        "18",
+        "27",
+        "36"
+      ],
+      "explanation": "兩端的行進方向相差約 180 度，編號以十度為單位，所以通常相差 18。",
+      "sourceIds": [
+        "cur-src-runway"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-082",
+      "category": "航空與機場",
+      "type": "choice",
+      "prompt": "平行跑道編號後的 L、C、R，通常分別代表什麼？",
+      "answer": "左、中、右",
+      "aliases": [],
+      "options": [
+        "左、中、右",
+        "長、中、短",
+        "低、中、高",
+        "陸、海、空"
+      ],
+      "explanation": "字母以飛機進場方向來看，用來區分方位相近的平行跑道。",
+      "sourceIds": [
+        "cur-src-runway"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-083",
+      "category": "地圖與地理",
+      "type": "choice",
+      "prompt": "「最高山峰」若定義為平均海平面以上的高度，應選哪一座？",
+      "answer": "聖母峰",
+      "aliases": [],
+      "options": [
+        "聖母峰",
+        "欽博拉索山",
+        "冒納凱阿火山",
+        "富士山"
+      ],
+      "explanation": "海拔最高、離地心最遠、從山腳到山頂最高，是三種不同的比較方式。",
+      "sourceIds": [
+        "cur-src-mountains"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-084",
+      "category": "科技與導航",
+      "type": "choice",
+      "prompt": "一般 GPS 接收器需要把自己的位置傳給衛星，衛星才會算出答案嗎？",
+      "answer": "不需要，接收器自行計算",
+      "aliases": [],
+      "options": [
+        "需要，衛星會逐人回覆",
+        "不需要，接收器自行計算",
+        "只在晚上需要",
+        "只有跨國時需要"
+      ],
+      "explanation": "GPS 衛星廣播時間與軌道資訊，接收器從收到的訊號計算位置；定位核心過程不要求回傳自己的座標給衛星。",
+      "sourceIds": [
+        "cur-src-gps"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-085",
+      "category": "交通與鐵道",
+      "type": "choice",
+      "prompt": "英法海底隧道穿越的是哪一片水域？",
+      "answer": "英吉利海峽",
+      "aliases": [],
+      "options": [
+        "英吉利海峽",
+        "直布羅陀海峽",
+        "波羅的海",
+        "愛爾蘭海"
+      ],
+      "explanation": "它以鐵路連接英國與法國，海底路段構成整個隧道相當大的部分。",
+      "sourceIds": [
+        "cur-src-channel"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-086",
+      "category": "地圖與地理",
+      "type": "choice",
+      "prompt": "尼莫點最近的陸地距離約為哪個數量級？",
+      "answer": "2,700 公里",
+      "aliases": [],
+      "options": [
+        "27 公里",
+        "270 公里",
+        "2,700 公里",
+        "27,000 公里"
+      ],
+      "explanation": "最近的幾處陸地約在 2,688 公里之外，這也是尼莫點被稱為海洋難抵極的原因。",
+      "sourceIds": [
+        "cur-src-nemo"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-087",
+      "category": "交通與鐵道",
+      "type": "choice",
+      "prompt": "阿里山早期使用的 Shay 蒸汽機車，其汽缸配置有什麼著名特色？",
+      "answer": "直立式汽缸",
+      "aliases": [],
+      "options": [
+        "直立式汽缸",
+        "完全沒有汽缸",
+        "以太陽能驅動汽缸",
+        "汽缸設在車站內"
+      ],
+      "explanation": "Shay 機車適合山地曲線與頻繁起停；它與特殊軌距、線形一起構成阿里山登山鐵路技術。",
+      "sourceIds": [
+        "cur-src-alishan"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-088",
+      "category": "地圖與地理",
+      "type": "choice",
+      "prompt": "納米布沙海中的沙粒，可能透過哪一組接力搬運方式形成巨大沙丘？",
+      "answer": "河流、海流、風",
+      "aliases": [],
+      "options": [
+        "河流、海流、風",
+        "只有冰川",
+        "只有隕石",
+        "只有地下岩漿"
+      ],
+      "explanation": "沙粒可以從內陸開始長途旅行，經河流與海流搬運，最後被風吹進沿海沙丘。",
+      "sourceIds": [
+        "cur-src-namib"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-089",
+      "category": "交通與鐵道",
+      "type": "choice",
+      "prompt": "印度山地鐵路世界遺產，除了大吉嶺與尼爾吉里，還包含哪一條？",
+      "answer": "卡爾卡—西姆拉鐵路",
+      "aliases": [],
+      "options": [
+        "卡爾卡—西姆拉鐵路",
+        "西伯利亞鐵路",
+        "東海道新幹線",
+        "伯連納鐵路"
+      ],
+      "explanation": "這三條路線以不同工程方式克服山地地形，並非只是一條鐵路的三種名稱。",
+      "sourceIds": [
+        "cur-src-india"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-090",
+      "category": "科技與導航",
+      "type": "choice",
+      "prompt": "GPS 衛星所在位置的重力比地表弱，單看這個效應，衛星時鐘會怎樣？",
+      "answer": "走得較快",
+      "aliases": [],
+      "options": [
+        "走得較快",
+        "走得較慢",
+        "完全停止",
+        "每秒倒轉一次"
+      ],
+      "explanation": "單看廣義相對論的重力效應，較弱重力處的鐘走得較快；衛星運動速度另有使它變慢的效應。",
+      "sourceIds": [
+        "cur-src-gpsrel"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-091",
+      "category": "地圖與地理",
+      "type": "boolean",
+      "prompt": "海嘯就是月球引力造成的普通潮汐被放大，因此也叫潮汐波。",
+      "answer": "否",
+      "aliases": [],
+      "options": [
+        "是",
+        "否"
+      ],
+      "explanation": "海嘯通常由地震、火山活動或其他突發水體位移造成，不能和規律潮汐混為一談。",
+      "sourceIds": [
+        "cur-src-tsunami"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-092",
+      "category": "航空與機場",
+      "type": "boolean",
+      "prompt": "飛行資料記錄器 FDR 可以記錄高度、空速及航向等飛行參數。",
+      "answer": "是",
+      "aliases": [],
+      "options": [
+        "是",
+        "否"
+      ],
+      "explanation": "FDR 提供數值資料，與錄下聲音環境的 CVR 相互補充，協助調查人員重建事件。",
+      "sourceIds": [
+        "cur-src-blackbox"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-093",
+      "category": "國家與文化",
+      "type": "boolean",
+      "prompt": "奧蘭群島有自治議會，但仍是芬蘭的一部分。",
+      "answer": "是",
+      "aliases": [],
+      "options": [
+        "是",
+        "否"
+      ],
+      "explanation": "自治不等於獨立；奧蘭在芬蘭國家架構內有自己的自治安排。",
+      "sourceIds": [
+        "cur-src-aland"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-094",
+      "category": "交通與鐵道",
+      "type": "boolean",
+      "prompt": "聖哥達基線隧道開通後，1882 年的舊聖哥達鐵路隧道就必然完全廢棄。",
+      "answer": "否",
+      "aliases": [],
+      "options": [
+        "是",
+        "否"
+      ],
+      "explanation": "瑞士官方說明舊山線仍供地方與觀光運輸使用；新隧道開通不代表舊路線必須消失。",
+      "sourceIds": [
+        "cur-src-gotthard"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-095",
+      "category": "科技與導航",
+      "type": "boolean",
+      "prompt": "低地球軌道衛星仍會受到稀薄大氣的阻力，因此軌道可能逐漸降低。",
+      "answer": "是",
+      "aliases": [],
+      "options": [
+        "是",
+        "否"
+      ],
+      "explanation": "太空與大氣沒有硬邊界。高層大氣雖薄，長時間的阻力仍會影響衛星軌道。",
+      "sourceIds": [
+        "cur-src-orbit"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-096",
+      "category": "交通與鐵道",
+      "type": "boolean",
+      "prompt": "倫敦第一段地下鐵的大量隧道施工，是先挖開地面、施工後再覆蓋。",
+      "answer": "是",
+      "aliases": [],
+      "options": [
+        "是",
+        "否"
+      ],
+      "explanation": "這種明挖覆蓋工法，與後來在深處鑽掘圓形隧道的方式不同。",
+      "sourceIds": [
+        "cur-src-london"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-097",
+      "category": "國家與文化",
+      "type": "boolean",
+      "prompt": "在南非，把所有中央政府機關都想像成集中於同一座首都，會造成誤解。",
+      "answer": "是",
+      "aliases": [],
+      "options": [
+        "是",
+        "否"
+      ],
+      "explanation": "南非的行政、國會與上訴法院等功能分布在不同城市；國家資訊必須說清楚所指功能。",
+      "sourceIds": [
+        "cur-src-southafrica"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-098",
+      "category": "地圖與地理",
+      "type": "boolean",
+      "prompt": "馬尾藻海的名稱和漂浮在海面的藻類有關。",
+      "answer": "是",
+      "aliases": [],
+      "options": [
+        "是",
+        "否"
+      ],
+      "explanation": "這片海域的名稱來自 Sargassum；漂浮藻體也為多種海洋生物提供棲地。",
+      "sourceIds": [
+        "cur-src-sargasso"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-099",
+      "category": "地圖與地理",
+      "type": "boolean",
+      "prompt": "伊盧利薩特峽灣的冰山，有一部分來自陸上冰川到達海邊後的崩解。",
+      "answer": "是",
+      "aliases": [],
+      "options": [
+        "是",
+        "否"
+      ],
+      "explanation": "冰川把冰從格陵蘭冰蓋帶向海洋，崩解後的巨大冰塊形成峽灣中醒目的冰山景觀。",
+      "sourceIds": [
+        "cur-src-ilulissat"
+      ],
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "cur-100",
+      "category": "科技與導航",
+      "type": "boolean",
+      "prompt": "全球資訊網 WWW 的發明，與網際網路所有底層網路技術的發明，是完全同一件事。",
+      "answer": "否",
+      "aliases": [],
+      "options": [
+        "是",
+        "否"
+      ],
+      "explanation": "Web 是建立在網路上的資訊連結系統。CERN 記錄的 1989 年發明是全球資訊網，不代表所有網路技術都在那年誕生。",
+      "sourceIds": [
+        "cur-src-web"
+      ],
+      "checkedAt": "2026-11-09"
+    }
+  ]
+}
